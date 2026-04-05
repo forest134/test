@@ -1,9 +1,6 @@
 {
-  "name": "sudoku-game",
+  "name": "sudoku",
   "compatibility_date": "2024-01-01",
-  "pages": {
-    "source": "out",
-    "branch": "main",
-    "build_command": "npm run build"
-  }
+  "pages_build_output_dir": "out",
+  "build_command": "npm run build"
 }
